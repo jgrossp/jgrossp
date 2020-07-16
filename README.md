@@ -2,8 +2,8 @@
 _______________________________________________________________________________________________________________________________________
 <img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jgrossp?label=Follow&style=social">
 
-
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/SpotlessGreatIvorybilledwoodpecker-size_restricted.gif" />
+
 
 * 🔭 I’m currently working on [Major Business Solutions](http://majorbs.com.br);
 
