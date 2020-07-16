@@ -1,6 +1,8 @@
 ### Hey 👋🏽, I'm [Jessica Grosskopf!](https://jgrossp.github.io) 
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/SpotlessGreatIvorybilledwoodpecker-size_restricted.gif" />
+
 * 🔭 I’m currently working on [Major Business Solutions](http://majorbs.com.br);
+
 * 🌱 I’m currently learning [Machine Learning - IA ](https://github.com/topics/machine-learning);
 * 👯 I’m looking to collaborate on Deep Learning
 * 🤔 I’m looking for help with Algorithm
