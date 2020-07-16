@@ -5,6 +5,7 @@ ________________________________________________________________________________
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/SpotlessGreatIvorybilledwoodpecker-size_restricted.gif" />
 
 
+
 * 🔭 I’m currently working on [Major Business Solutions](http://majorbs.com.br);
 
 * 🌱 I’m currently learning [Machine Learning - IA ](https://github.com/topics/machine-learning);
