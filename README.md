@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Jessica Grosskopf!](https://jgrossp.github.io) 
 _______________________________________________________________________________________________________________________________________
-<img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jgrossp?label=Follow&style=social">
+<img align="left" alt="Twitter Follow" href="https://twitter.com/intent/follow?screen_name=jgrossp" src="https://img.shields.io/twitter/follow/jgrossp?label=Follow&style=social">
 ----------------------------------------------------------------------------------------------------------------------
 
 
