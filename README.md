@@ -1,14 +1,14 @@
 ### Hey 👋🏽, I'm [Jessica Grosskopf!](https://jgrossp.github.io) 
 _______________________________________________________________________________________________________________________________________
 <img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jgrossp?label=Follow&style=social">
-<p></p>
+----------------------------------------------------------------------------------------------------------------------
 
 
 Hello, my name is Jessica Grosskopf. I am a Data Analyst at MajorBS, working with Machine Learning and Artificial Intelligence!
 I love learning new trends in the IT field, but well connected to Machine Learning and writing about it.
 Passion - TDD, API, Web Services, Data! Also, I enjoy hiking and traveling and discovering new places and feeling more of nature.
-.
 
+----------------------------------------------------------------------------------------------------------------------------
 
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/SpotlessGreatIvorybilledwoodpecker-size_restricted.gif" />
 
