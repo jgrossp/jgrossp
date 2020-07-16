@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/SpotlessGreatIvorybilledwoodpecker-size_restricted.gif" />
   
-<img align="right" alt="GIF" src="https://hackernoon.com/hn-images/1*37ABKi4XeHkEWHxlF3LIog.gif" />
+
 
 ______________________________________________________________________________________________________________________________________________________________________
   
-## 
+
 
