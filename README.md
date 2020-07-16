@@ -1,4 +1,7 @@
 ### Hey 👋🏽, I'm [Jessica Grosskopf!](https://jgrossp.github.io) 
+_______________________________________________________________________________________________________________________________________
+https://img.shields.io/twitter/follow/jgrossp?label=follow&style=social
+
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/SpotlessGreatIvorybilledwoodpecker-size_restricted.gif" />
 
 * 🔭 I’m currently working on [Major Business Solutions](http://majorbs.com.br);
