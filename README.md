@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 
 
-Hi, my name is Jessica Grosskopf. I am a Data Analyst at MajorBS, working with Machine Learning and Artificial Intelligence!
+Hi, my name is Jessica Grosskopf. I'm a Data Analyst at MajorBS, working with Machine Learning and Artificial Intelligence!
 I love learning new trends in the IT field, but well connected to Machine Learning and writing about it.
 Passion - TDD, API, Web Services, Data! Also, I enjoy hiking and traveling and discovering new places and feeling more of nature.
 
