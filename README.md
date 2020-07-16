@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hey 👋🏽, I'm [Jessica Grosskopf!](https://jgrossp.github.io) 
 
 <!--
 **jgrossp/jgrossp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on [Major Business Solutions](http://majorbs.com.br);
+- 🌱 I’m currently learning [Machine Learning - IA ](https://github.com/topics/machine-learning);
+- 👯 I’m looking to collaborate on Deep Learning
+- 🤔 I’m looking for help with Algorithm
+- 💬 Ask me about anything you want
+- 📫 How to reach me: jgrossp@gmailcom
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🍺☕ Drink: Beers and coffee
+-  🏕🏖🌌🪐🚎: Trekking and travel - I love it - and another stuff about life, energy and souls.
 -->
+
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/SpotlessGreatIvorybilledwoodpecker-size_restricted.gif" />
+  
+<img align="right" alt="GIF" src="https://hackernoon.com/hn-images/1*37ABKi4XeHkEWHxlF3LIog.gif" />
+
+______________________________________________________________________________________________________________________________________________________________________
+  
+## 
+
