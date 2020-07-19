@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 
 Hi, my name is Jessica Grosskopf. I'm a Data Analyst at MajorBS, working with Machine Learning and Artificial Intelligence!
-I love learning new trends in the IT field, but well connected to Machine Learning and writing about it.
+I love learning new trends T.I (Python, A.I, ML and Front-end), and writing about it in Dev.to
 Passion - TDD, API, Web Services, Data! Also, I enjoy hiking and traveling and discovering new places and feeling more of nature.
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -22,6 +22,7 @@ Passion - TDD, API, Web Services, Data! Also, I enjoy hiking and traveling and d
 * 💬 Ask me about anything you want
 * 📫 How to reach me: jgrossp@gmailcom
 * 💻 my personal website - [Click!](https://jgrossp.github.io) 
+* <img src="https://img.icons8.com/metro/26/000000/python.png"/> PSF in Python
 * 🍺☕ Drink: Beers and coffee
 *  🏕🏖🌌🪐🚎: Trekking and travel - I love it - and another stuff about life, energy and souls.
 
