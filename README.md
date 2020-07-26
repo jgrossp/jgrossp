@@ -20,7 +20,7 @@ Passion - TDD, API, Web Services, Data! Also, I enjoy hiking and traveling and d
 * 👯 I’m looking to collaborate on Deep Learning
 * 🤔 I’m looking for help with Algorithm
 * 💬 Ask me about anything you want
-* 📫 How to reach me: [mail](jgrossp@gmail.com)
+* 📫 How to reach me: jgrossp@gmail.com
 * 💻 my personal website - [Click!](https://jgrossp.github.io) 
 * <img src="https://img.icons8.com/metro/26/000000/python.png"/> PSF in Python
 * 🍺☕ Drink: Beers and coffee
