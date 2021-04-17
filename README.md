@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 
 
-Hi, my name is Jessica Grosskopf. I'm a Data Analyst at MajorBS, working with Machine Learning and Artificial Intelligence!
+Hi, my name is Jessica Grosskopf. I'm a Functional Analyst at Everymind, working with Machine Learning and Artificial Intelligence!
 I love learning new trends T.I (Python, A.I, ML and Front-end), and writing about it in Dev.to
 Passion - TDD, API, Web Services, Data! Also, I enjoy hiking and traveling and discovering new places and feeling more of nature.
 
@@ -14,10 +14,10 @@ Passion - TDD, API, Web Services, Data! Also, I enjoy hiking and traveling and d
 
 
 
-* 🔭 I’m currently working on [Major Business Solutions](http://majorbs.com.br);
+* 🔭 I’m currently working on [Everymind](http://www.everymind.com.br);
 
 * 🌱 I’m currently learning [Machine Learning - IA ](https://github.com/topics/machine-learning);
-* 👯 I’m looking to collaborate on Deep Learning
+* <img src="https://img.icons8.com/color/48/000000/salesforce.png"/> I’m looking to collaborate on Partner Community in SalesForce and becoming a Developer Girls.
 * 🤔 I’m looking for help with Algorithm
 * 💬 Ask me about anything you want
 * 📫 How to reach me: jgrossp@gmail.com
