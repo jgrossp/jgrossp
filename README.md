@@ -14,9 +14,9 @@ Passion - TDD, API, Web Services, Data! Also, I enjoy hiking and traveling and d
 
 
 
-* 🔭 I’m currently working on [Everymind](http://www.everymind.com.br);
+* 🔭 I’m currently working on [BTG](https://www.btgpactual.com/);
 
-* 🌱 I’m currently learning [Machine Learning - IA ](https://github.com/topics/machine-learning);
+* 🌱 I’m currently learning [Salesforce](https://www.salesforce.com/br/);
 * <img src="https://img.icons8.com/color/48/000000/salesforce.png"/> I’m looking to collaborate on Partner Community in SalesForce and becoming a Developer Girls.
 * 🤔 I’m looking for help with Algorithm
 * 💬 Ask me about anything you want
