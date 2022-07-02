@@ -4,9 +4,9 @@ ________________________________________________________________________________
 
 
 
-Hi, my name is Jessica Grosskopf. I'm a Functional Analyst at Everymind, working with Machine Learning and Artificial Intelligence!
-I love learning new trends T.I (Python, A.I, ML and Front-end), and writing about it in Dev.to
-Passion - TDD, API, Web Services, Data! Also, I enjoy hiking and traveling and discovering new places and feeling more of nature.
+Hi, my name is Jessica Grosskopf. I'm a Developer at BTG Pactua, working with Apex - LWC !
+I love learning new trends T.I (Python, A.I, ML, LWC, Webservices, Front-end), and writing about it in Dev.to
+Passion - TDD, API, Web Services, Data! Also, I enjoy hiking and traveling and discovering new places, feeling more of nature and I had a passion with clouds/Sky .
 
 ----------------------------------------------------------------------------------------------------------------------------
 
