@@ -14,7 +14,7 @@ Passion - TDD, API, Web Services, Data! Also, I enjoy hiking and traveling and d
 
 
 
-* 🔭 I’m currently working on [BTG](https://www.btgpactual.com/);
+* 🔭 I’m currently working on [Suhai Seguradora](https://suhaiseguradora.com/);
 
 * 🌱 I’m currently learning [Salesforce](https://www.salesforce.com/br/);
 * <img src="https://img.icons8.com/color/48/000000/salesforce.png"/> I’m looking to collaborate on Partner Community in SalesForce and becoming a Developer Girls.
@@ -31,7 +31,6 @@ Passion - TDD, API, Web Services, Data! Also, I enjoy hiking and traveling and d
 * <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 * <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
 * <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-* <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white"/> Learning
 * <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/> English - Spanish - French - Hebrew
 
 * 🍺☕ Drink: Beers and coffee
