@@ -22,7 +22,7 @@ Passion - Code, API, Web Services, Data! Also, I enjoy hiking and traveling and 
 * 💬 Ask me about anything you want
 * 📫 How to reach me: jgrossp@gmail.com
 * 💻 my personal website - [Click!](https://jgrossp.github.io)
-* <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/> Ranger1x - Analyst Functinal | Developer 
+* <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/> Ranger2x - Analyst Functinal | Data Architect | 5 Certification SF 
 
 * 👩‍💻 Languages 
 * <img src="https://img.icons8.com/metro/26/000000/python.png"/> PSF in Python
