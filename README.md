@@ -1,10 +1,9 @@
 ### Hello There 👋🏽, 
 _______________________________________________________________________________________________________________________________________
-<a href="https://twitter.com/jgrossp" rel="nofollow"><img src="https://camo.githubusercontent.com/509ee030e56f322ca664cd708e9f7c4eee36d4d8/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f6a67726f7373703f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" alt="Twitter Follow" data-canonical-src="https://img.shields.io/twitter/follow/jgrossp?label=Follow&style=social" style="max-width:100%;"></a>
 
 
 
-Hi, my name is Jessica Grosskopf. I'm a Tech Lead at Suhai Seguradora, working with Apex - LWC ! Becoming a Data Architect. 
+Hi, my name is Jessica Grosskopf. I'm a Tech Lead, working with: IA, Data Cloud, Data Lake, Apex - LWC ! Becoming a Eng Data post degree. 
 I love learning new trends T.I (Data Cloud, A.I, AMPScript, LWC, Webservices, Front-end), and writing about it in Dev.to
 Passion - Code, API, Web Services, Data! Also, I enjoy hiking and traveling and discovering new places, feeling more of nature and I had a passion with clouds/Sky .
 
@@ -14,7 +13,7 @@ Passion - Code, API, Web Services, Data! Also, I enjoy hiking and traveling and 
 
 
 
-* 🔭 I’m currently working on [Suhai Seguradora](https://suhaiseguradora.com/);
+* 🔭 I’m currently working on IA | Data Cloud | Data Lake;
 
 * 🌱 I’m currently learning [Salesforce](https://www.salesforce.com/br/);
 * <img src="https://img.icons8.com/color/48/000000/salesforce.png"/> I’m looking to collaborate on Partner Community in SalesForce and becoming a Developer Girls.
@@ -22,7 +21,7 @@ Passion - Code, API, Web Services, Data! Also, I enjoy hiking and traveling and 
 * 💬 Ask me about anything you want
 * 📫 How to reach me: jgrossp@gmail.com
 * 💻 my personal website - [Click!](https://jgrossp.github.io)
-* <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/> Ranger2x - Analyst Functinal | Data Architect | 5 Certification SF 
+* <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/> Ranger2x - Analyst Functinal | Data Architect | 7 Certification SF 
 
 * 👩‍💻 Languages 
 * <img src="https://img.icons8.com/metro/26/000000/python.png"/> PSF in Python
