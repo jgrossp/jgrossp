@@ -14,7 +14,7 @@ Passion - Code, API, Web Services, Data! Also, I enjoy hiking and traveling and 
 
 
 * 🔭 I’m currently working on IA | Data Cloud | Data Lake;
-
+* 🤖 I'm just create a NoteboolLM About Apex - IA - Data Cloud - [NotebookLM](https://notebooklm.google.com/notebook/200819f5-f17f-43d9-9218-9a21797efcbe)
 * 🌱 I’m currently learning [Salesforce](https://www.salesforce.com/br/);
 * <img src="https://img.icons8.com/color/48/000000/salesforce.png"/> I’m looking to collaborate on Partner Community in SalesForce and becoming a Developer Girls.
 * 🤔 I’m keep studying SalesForce
